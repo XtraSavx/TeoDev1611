@@ -3,7 +3,7 @@
 <h2 align="center">A Open Source Lover and Vimmer</h3>
 
 <p align="center" width="100%">
-  <a href="https://github.com/TeoDev1611">
+  <a href="https://github.com/XtraSavx">
     <img src="https://img.shields.io/github/followers/XtraSavx?style=flat-square&label=Github%20Followers" alt="GitHub followers"/>
    </a>
 </p>
