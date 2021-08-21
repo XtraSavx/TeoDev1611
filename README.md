@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **C, Arduino**
 
-- 👨‍💻 All of my projects are available at [https://teodev1611.github.io](https://teodev1611.github.io)
+- 👨‍💻 All of my projects are available at [https://github.com/XtraSavx?tab=repositories](https://github.com/XtraSavx?tab=repositories)
 
 - 💬 Ask me about **C, Arduino**
 
