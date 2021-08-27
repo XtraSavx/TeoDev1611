@@ -14,6 +14,8 @@
 
 - 💬 Ask me about **C, Arduino**
 
+- 🤩 In my free time i like to see movies
+
 - 📫 How to reach me **sebasprogramador25@gmail.com**
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=xtrasavx&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="XtraSavx" /></p>
