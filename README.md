@@ -8,7 +8,7 @@
    </a>
 </p>
 
-- 🌱 I’m currently learning **C, Arduino**
+- 🌱 I’m currently learning **HTML, CSS and JS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/XtraSavx?tab=repositories](https://github.com/XtraSavx?tab=repositories)
 
